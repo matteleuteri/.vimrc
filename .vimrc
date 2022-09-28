@@ -12,3 +12,5 @@ set scrolloff=20
 command Ex Explore
 command Tex Texplore
 command Sex Sexplore
+
+syntax on
