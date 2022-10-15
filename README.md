@@ -1,3 +1,1 @@
-# This is my .vimrc
-
-I use it to configure vim.
+# These are my configuration files.
