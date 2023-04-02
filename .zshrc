@@ -1,4 +1,5 @@
 alias ll="ls -al"
 alias gs="git status"
 alias gd="git diff ."
+alias gdo="git diff origin/main..HEAD"
 alias cdw="cd Desktop/workspaces"
